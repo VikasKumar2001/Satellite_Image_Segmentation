@@ -10,12 +10,17 @@ This project focuses on segmenting satellite images to detect and analyze land c
 - 🧠 Trained using a custom dataset of satellite images and corresponding segmentation masks.
 - ⏱️ Reduced image processing time drastically through automation.
 
-## 📂 Repository Structure
 
+## 📁Project Structure
+```
+Project/
 ├── satellite-image-segmentation.ipynb # Main notebook with training + evaluation
 ├── dataset/ # Folder to store satellite images & masks(limited images)
 ├── results/ # Sample predictions and IoU metrics
 ├── README.md # Project documentation
+└── .gitignore                     # Git ignore file to exclude cache and secrets
+```
+
 
 
 ## 🧪 Technologies Used
