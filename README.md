@@ -50,5 +50,5 @@ Segmentation overlay from satellite image:
 
 If you use this work, please cite it as:
 
-Vikas Kumar, Satellite Image Segmentation using U-Net, ISRO Bharatiya Antariksh Project, July 2025.
+Vikas Kumar, Satellite Image Segmentation using U-Net, ISRO Bharatiya Antariksh Project, August 2024.
 
